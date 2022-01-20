@@ -1,0 +1,34 @@
+body{
+    background: #E5E5E5;
+}
+.preposition{
+    color: #9F9F9F;
+}
+.writter{
+    color: #562EFF;
+}
+p>a{
+    text-decoration: none;
+}
+.curse-writter{
+    font-weight: 400;
+    font-size:14px;
+    color: #ED6B4F;
+
+}
+.filled{
+    color: #FFC014;
+}
+.empty{
+    color:#AEAEAE;
+    
+}
+.time{
+    background-color: #db848e8c;
+}
+.clock-time{
+    color:#FF4A60;
+}
+.custom-clock{
+    color: #FF4A60;
+}
